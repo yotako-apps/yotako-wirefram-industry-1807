@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView
+android:fillViewport="true"
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+        <com.yotako.customView.YotakoConstraintLayout
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+            <android.support.constraint.Guideline
+android:id="@+id/sign_up_text_0_guidelines_top057210f4_de54_48ea_97e1_df3238533f8c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.42710000000000004" />
+            <android.support.constraint.Guideline
+android:id="@+id/sign_up_text_0_guidelines_start057210f4_de54_48ea_97e1_df3238533f8c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.08990000000000001" />
+            <android.support.constraint.Guideline
+android:id="@+id/sign_up_text_0_guidelines_bottom057210f4_de54_48ea_97e1_df3238533f8c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.88337" />
+            <android.support.constraint.Guideline
+android:id="@+id/sign_up_text_0_guidelines_end057210f4_de54_48ea_97e1_df3238533f8c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.91265" />
+            <com.yotako.customView.YotakoTextView
+android:id="@+id/sign_up_text_0"
+android:fontFamily="Balsamiq Sans"
+
+android:text="aute excepteur ad velit aliqua qui Lorem quis elit irure nisi ea ipsum aliquip aute cillum sit ullamco dolor dolor nostrud velit veniam ipsum aute pariatur veniam eu labore nulla nostrud ut veniam deserunt ea incididunt eu cupidatat Lorem quis magna voluptate quis id aliqua nisi anim ut ex esse pariatur nulla ut et ex ex exercitation ullamco sint occaecat ipsum est duis do velit quis culpa nulla fugiat amet ut aute est cupidatat eiusmod veniam incididunt occaecat voluptate ullamco magna voluptate ut esse ullamco non anim velit aliquip non enim fugiat non aliquip officia nulla fugiat do laborum consectetur enim et nostrud incididunt ea aliqua non eu deserunt consectetur adipisicing enim est adipisicing magna nostrud aute irure nisi qui quis nostrud Lorem cupidatat consectetur eiusmod minim anim do nostrud et pariatur id deserunt." 
+android:textSize="12sp"
+app:autoSizeTextType="none"
+app:originalWidth="309"
+app:originalHeight="357"
+android:layout_width="0dp"
+android:layout_height="428.4dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/sign_up_text_0_guidelines_start057210f4_de54_48ea_97e1_df3238533f8c"
+app:layout_constraintTop_toTopOf="@+id/sign_up_text_0_guidelines_top057210f4_de54_48ea_97e1_df3238533f8c"
+app:layout_constraintEnd_toEndOf="@+id/sign_up_text_0_guidelines_end057210f4_de54_48ea_97e1_df3238533f8c"
+app:layout_constraintBottom_toBottomOf="@+id/sign_up_text_0_guidelines_bottom057210f4_de54_48ea_97e1_df3238533f8c" />
+            <android.support.constraint.Guideline
+android:id="@+id/sign_up_container_0_guidelines_top7132201c_9b07_4741_93c1_aba546f5e329"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.1128" />
+            <android.support.constraint.Guideline
+android:id="@+id/sign_up_container_0_guidelines_start7132201c_9b07_4741_93c1_aba546f5e329"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3148" />
+            <android.support.constraint.Guideline
+android:id="@+id/sign_up_container_0_guidelines_bottom7132201c_9b07_4741_93c1_aba546f5e329"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.34092999999999996" />
+            <android.support.constraint.Guideline
+android:id="@+id/sign_up_container_0_guidelines_end7132201c_9b07_4741_93c1_aba546f5e329"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.68517" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/sign_up_container_0_7132201c_9b07_4741_93c1_aba546f5e329"
+android:background="#000000"
+app:borderColor="#000000"
+app:originalWidth="139"
+app:originalHeight="179"
+app:border="1"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/sign_up_container_0_guidelines_start7132201c_9b07_4741_93c1_aba546f5e329"
+app:layout_constraintTop_toTopOf="@+id/sign_up_container_0_guidelines_top7132201c_9b07_4741_93c1_aba546f5e329"
+app:layout_constraintEnd_toEndOf="@+id/sign_up_container_0_guidelines_end7132201c_9b07_4741_93c1_aba546f5e329"
+app:layout_constraintBottom_toBottomOf="@+id/sign_up_container_0_guidelines_bottom7132201c_9b07_4741_93c1_aba546f5e329">
+            </com.yotako.customView.YotakoConstraintLayout>
+        </com.yotako.customView.YotakoConstraintLayout>
+    </ScrollView>
